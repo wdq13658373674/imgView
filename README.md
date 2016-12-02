@@ -23,4 +23,8 @@ $('#imageView').imageView({
 
 #压缩包
 
-imgView.min.js
+[imgView.min.js](https://github.com/wdq13658373674/imgView/blob/master/imgView.min.js)
+
+#demo
+
+[demo](https://github.com/wdq13658373674/imgView/blob/master/imgView.min.js)
