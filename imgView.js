@@ -36,14 +36,6 @@
         $img.css('left', settings['width'] / 2 - settings['imgwidth'] / 2);
         $img.css('top', settings['height'] / 2 - settings['imgheight'] / 2);
 
-        /*if($img.complete){
-            $img.css('left', settings['width'] / 2 - settings['imgwidth'] / 2);
-            $img.css('top', settings['height'] / 2 - settings['imgheight'] / 2);
-        }else{
-            $img.css({top:0,left:0});
-        }*/
-
-
         // Events
         $img.mousedown(function (event) {
             $container.css('cursor', settings.cursor);
