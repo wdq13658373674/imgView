@@ -27,4 +27,4 @@ $('#imageView').imageView({
 
 #demo
 
-[demo](https://github.com/wdq13658373674/imgView/blob/master/imgView.min.js)
+[demo](https://github.com/wdq13658373674/imgView/blob/master/demo.html)
