@@ -21,3 +21,7 @@ $('#imageView').imageView({
 兼容性
 
 兼容各个主流浏览器、ie9+
+
+压缩包
+
+imgView.min.js
