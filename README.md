@@ -2,6 +2,10 @@
 
 使用方法：
 
+`<script src="http://cdn.bootcss.com/jquery/1.8.3/jquery.js"></script>`
+
+`<script src="imgView.min.js"></script>`
+
 $('#imageView').imageView({
 
             width: 1122,//容器宽度
