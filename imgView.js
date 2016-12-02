@@ -39,6 +39,7 @@
         }
 
         function loaded(){
+
             //img init
             $img.css('left', settings['width'] / 2 - settings['imgwidth'] / 2);
             $img.css('top', settings['height'] / 2 - settings['imgheight'] / 2);
