@@ -1,6 +1,10 @@
-# imgVew.js简单的div内鼠标拖动大图查看全景插件
+# ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)imgVew.js简单的div内鼠标拖动大图查看全景插件
 
 使用方法：
+
+`<script src="http://cdn.bootcss.com/jquery/1.8.3/jquery.js"></script>`
+
+`<script src="imgView.min.js"></script>`
 
 $('#imageView').imageView({
 
@@ -23,4 +27,8 @@ $('#imageView').imageView({
 
 #压缩包
 
-imgView.min.js
+[imgView.min.js](https://github.com/wdq13658373674/imgView/blob/master/imgView.min.js)
+
+#demo
+
+[demo](https://github.com/wdq13658373674/imgView/blob/master/demo.html)
