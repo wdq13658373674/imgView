@@ -27,7 +27,7 @@ $('#imageView').imageView({
 
 #压缩包
 
-[imgView.min.js](https://github.com/wdq13658373674/mgPlugin/blob/master/imgView.min.js)
+[imgView.min.js](https://github.com/wdq13658373674/mgPlugin/blob/master/imgView/imgView.min.js)
 
 #demo
 
