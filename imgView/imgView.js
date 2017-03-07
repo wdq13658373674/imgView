@@ -1,12 +1,5 @@
 /**
- * @name jQuery imageView plugin(div内大图鼠标移动查看插件)
- * @license GPL
- * @version 0.0.4
- * @date September 16, 2010
- * @category jQuery plugin
- * @author Kotelnitskiy Evgeniy (evgennniy@gmail.com)
- * @copyright (c) 2010 Kotelnitskiy Evgeniy (http://4coder.info/en/)
- * @example Visit http://4coder.info/en/ for more informations about this jQuery plugin
+ 澶у浘绉诲姩鎻掍欢
  */
 (function($) {
     jQuery.fn.imageView = function(settings) {
